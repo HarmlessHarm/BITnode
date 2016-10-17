@@ -1,0 +1,28 @@
+{
+  "name": "nodeJsTraining",
+  "version": "1.0.0",
+  "description": "NodeJS training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarmlessHarm/BITnode.git"
+  },
+  "keywords": [
+    "node-tutorial",
+    "craft-beer",
+    "express",
+    "react"
+  ],
+  "author": "Harm Manders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarmlessHarm/BITnode/issues"
+  },
+  "homepage": "https://github.com/HarmlessHarm/BITnode#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
